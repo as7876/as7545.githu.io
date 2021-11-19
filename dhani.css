@@ -1,0 +1,15 @@
+body{
+    background: color #202124;;
+}
+h1{
+    color:white;
+     font-family:'popins',sans-serif ;
+     font-size: 200%;
+}
+button{
+    background-color: #303134;
+    border-width: 10px;
+    border-color:white ;
+    border-style: solid;
+
+}
